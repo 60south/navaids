@@ -1,7 +1,7 @@
 # navaids
 Navigational Aids in the USA for aviation, including VORs and VORTACs
 
-*This dataset comes with no guarantees of accuracy or completeness. Use at your own risk.*
+*** *This dataset comes with no guarantees of accuracy or completeness. Use at your own risk.* ***
 
 Includes latitude and logitude of each station.
 
