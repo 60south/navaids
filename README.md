@@ -5,7 +5,7 @@ A list of USA aviation Navigational Aids (NAVAIDs), including VORs, VOTs, and VO
 
 ----
 
-For additions, deletions, corrections or suggestions, please create an "Issue" with the correction. For new stations, the minimal information necessary is:
+For additions, deletions, corrections or suggestions, please create an "Issue". For new stations, the minimal information necessary is:
 - The station identifier, usually a three letter FAA ID, e.g.: "BUF"
 - The plain English name of the station (e.g., "Buffalo")
 - Latitude and longitude in decimal degrees
