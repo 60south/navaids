@@ -6,7 +6,7 @@ A list of USA aviation Navigational Aids (NAVAIDs), including VORs, VOTs, and VO
 ----
 
 For additions, deletions, corrections or suggestions, please create an "Issue" with the correction. For new stations, the minimal information necessary is:
-- The three-letter station identifier (usually the FAA ID) as used in a Center Weather Advisory, e.g., "BUF"
+- The station identifier, usually a three letter FAA ID, e.g.: "BUF"
 - The plain English name of the station (e.g., "Buffalo")
 - Latitude and longitude in decimal degrees
 - Elevation in feet
