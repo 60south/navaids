@@ -9,7 +9,10 @@ For additions, deletions, corrections or suggestions, please create an "Issue" w
 - The station identifier, usually a three letter FAA ID, e.g.: "BUF"
 - The plain English name of the station (e.g., "Buffalo")
 - Latitude and longitude in decimal degrees
+
+Recommended addtional information:
 - Elevation in feet
+- Frequency
 
 ----
 Additional US and international NAVAIDs might be found at: https://www.dxmaps.com/callbook/index.html
