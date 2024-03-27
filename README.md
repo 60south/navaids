@@ -1,5 +1,5 @@
 # navaids
-Navigational Aids in the USA for aviation, including VORs, VOTs, and VORTACs
+A list of USA aviation Navigational Aids (NAVAIDs), including VORs, VOTs, and VORTACs.
 
 *This dataset is provided with no guarantees of accuracy or completeness whatsoever. Use at your own risk.*
 
