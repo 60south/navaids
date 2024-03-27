@@ -15,7 +15,10 @@ Recommended addtional information:
 - Frequency
 
 ----
-Additional US and international NAVAIDs might be found at: https://www.dxmaps.com/callbook/index.html
+Additional US and international NAVAIDs might be found at: 
+- https://adds-faa.opendata.arcgis.com/datasets/990e238991b44dd08af27d7b43e70b92_0/explore?location=9.874507%2C-1.658582%2C1.93
+- https://www.faa.gov/air_traffic/flight_info/aeronav/aero_data/NASR_Subscription/ (click on the current or past subscriptions, and look for a zipped NAVAID file link)
+- https://www.dxmaps.com/callbook/index.html
 
 Some navigational aids may be listed in the stations list at: https://aviationweather.gov/data/api/
 
